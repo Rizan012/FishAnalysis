@@ -51,7 +51,7 @@ from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler  
 from sklearn.cluster import KMeans
 
---
+```
 ## Cluster Result:
 ![Demo](Result_Img/my_plot.png)
 
